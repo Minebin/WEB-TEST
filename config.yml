@@ -4,7 +4,7 @@
 # This is the Discord Webhook link
 # To get one, open your server configuration panel, go to "Webhooks", create a webhook and then
 # copy the link to here
-WebhookLink: "https://discordapp.com/api/webhooks/268353867484364800/2CJjNV1DrArSEAginMSZhwWTrpsN83l8AxIXAOZHWbfhtjDdxmAvkM6AliK8UqdqijBr"
+WebhookLink: "http://jinoda.kr:8123"
 
 # This is the bot username on Discord
 #
